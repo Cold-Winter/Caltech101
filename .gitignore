@@ -1,0 +1,7 @@
+/.vscode
+__pycache__
+/venv
+*.jpg
+*.mp4
+*.jpeg
+voc_models
